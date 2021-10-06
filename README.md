@@ -9,5 +9,5 @@ Composição:
 
 - Composer: Gerenciador de pacotes php.
 - NPM: Gerenciador de pacotes para o Node.JS
-- PHP Version: 7.4.3
+- PHP Version: 6.20.26
 - Banco de Dados: PostgresSQL
