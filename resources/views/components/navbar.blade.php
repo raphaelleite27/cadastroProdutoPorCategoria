@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-personalizado rounded">
 
-  <img src="{{ asset('imagens/logo-thomson.png')}}" alt="logo" height="43">
+  <img src="{{ asset('imagens/CadastruZ Logo.png')}}" alt="logo" height="43">
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" 
           data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
